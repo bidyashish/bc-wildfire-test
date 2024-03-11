@@ -2,12 +2,16 @@
 
 ## Requirements
 - Node.js
+- GIT
 - Docker
 - Free Localhost Port 3000
 
 ## How to Run Setup Option 1
 1. Install and run in Docker:
     ```bash
+    git clone https://github.com/bidyashish/bc-wildfire-test.git
+
+    
     docker-compose up
     ```
 
